@@ -1,0 +1,68 @@
+
+body{
+  background-color: rgb(214, 220, 217);
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  padding:14px;
+  font-size: 34px;
+  font-weight:bold;
+  font-style: normal;
+  color:black;
+
+}
+.navbar a {
+  color:rgb(32, 97, 93);
+  text-decoration: none;  /* Remove underline */
+  font-size: 32px;
+}
+.navbar a:hover{
+  background-color: rgb(199, 195, 190);
+  border-radius:10px;
+  
+}
+.front_details{
+  font-size: 20px;
+  color:rgb(104, 104, 95);
+  margin-left: 20px;
+}
+.image{
+  display:flex;
+  justify-content:center;
+  height: 450px;
+  width: 450px;
+  margin-top:20px;
+  
+  
+}
+.image img{
+  border-radius: 50%;
+  object-fit: cover;
+  margin-left: 400px;
+  
+}
+#name{
+  margin-left: 330px;
+}
+#logo{
+  height: 30px;
+  width: 30px;
+}
+.footer{
+  display:flex;
+  justify-content: center;
+  gap:20px;
+
+}
+/* styling for about section:  */
+.about{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  border: 1px dotted rgb(98, 98, 4);
+  border-radius: 2%;
+  margin-left:10px;
+}
+
+
