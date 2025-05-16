@@ -18,14 +18,24 @@ function About(){
              Feel free to connect with me, and let's create something amazing together!</p>
          </div>
          <div>
-            <h2>Background:</h2>
-            {/* <p >As i was a kid i used to wonder how computer works which now leads me to be a student of computer science.
-
-            </p> */}
-
-
-
+            <h2>Eductaion</h2>
+            <p>I am a senior studing Computer Science at University of Illinois Chicago. During my college, I learned different programming languages and contributed in a group project as well.</p>
          </div>
+         <div>
+            <h2>Work Experience</h2>
+            <p>I worked at Federal Mogul Motorparts located at Skokie, IL for abuout 10  months before that i used to work at Subway. </p>
+         </div>
+         <div>
+            <h2>Hobbies</h2>
+            <p>Besides study i love to do photography i am more into nature photography. I also love playing cricket.</p>
+         </div>
+         
+
+
+
+
+
+
         </>
     );
 

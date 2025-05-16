@@ -1,20 +1,21 @@
 
 body{
-  background-color: rgb(214, 220, 217);
+  background-color: rgb(208, 217, 205);
 }
 
 .navbar{
-  display: flex;
+  display:flex;
   justify-content: space-between;
   padding:14px;
   font-size: 34px;
   font-weight:bold;
   font-style: normal;
   color:black;
+  background-color: rgb(151, 232, 232);
 
 }
 .navbar a {
-  color:rgb(32, 97, 93);
+  color:rgb(63, 118, 47);
   text-decoration: none;  /* Remove underline */
   font-size: 32px;
 }
@@ -63,6 +64,27 @@ body{
   border: 1px dotted rgb(98, 98, 4);
   border-radius: 2%;
   margin-left:10px;
+}
+#contact_title{
+  margin-left:2px;
+  font-size:32px;
+  font-weight: bold;
+  /* border-radius:20px; */
+  color:black;
+  padding:12px;
+  /* background-color: black; */
+
+
+}
+
+.contact{
+  margin-left: 18px;
+  font-size:18px;
+  color:black;
+  
+  
+
+
 }
 
 
